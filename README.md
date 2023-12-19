@@ -1,0 +1,2 @@
+# kirtistudy
+my first repository
